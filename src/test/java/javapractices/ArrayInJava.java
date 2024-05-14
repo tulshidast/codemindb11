@@ -5,6 +5,7 @@ public class ArrayInJava {
 	public static void main(String[] args) {
 
 		int a;
+		int b;
 
 		// valid array declarations
 		int numbers[];

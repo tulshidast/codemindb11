@@ -6,6 +6,7 @@ public class ProgramForAddition {
 
 		System.out.println(10 + 20);
 		System.out.println("Hello");
+		System.out.println("Hello everyone");
 
 	}
 

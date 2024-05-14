@@ -92,11 +92,12 @@ public class StringClassProgram {
 
 		System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
 
-		// character count from given String
+		// each an every character count from given String
 		String str = "Welcome to codemind";
 		int count1 = 1;
 		String str_1 = "";
-
+  
+		
 		for (int i = 0; i < str.length(); i++) {
 			char cc = str.charAt(i);
 			if (str_1.contains(String.valueOf(cc))) {

@@ -2,12 +2,12 @@ package javapractices;
 
 public class ArrayInJava {
 
+	// instance member variables
+	int aa=20;
+	
 	public static void main(String[] args) {
 
 		int a;
-
-		int b;
-
 
 		// valid array declarations
 		int numbers[];
@@ -22,7 +22,7 @@ public class ArrayInJava {
 
 		// array declaration and initialization
 
-		
+		int b = 20;
 
 		int numbers5[] = new int[10];
 

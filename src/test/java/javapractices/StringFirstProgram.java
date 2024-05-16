@@ -6,6 +6,7 @@ public class StringFirstProgram {
 
 		// First way by using new keyword
 		String track = "Changes";
+		
 		String s = new String("Welcome to codemind");
 
 		System.out.println(s);
